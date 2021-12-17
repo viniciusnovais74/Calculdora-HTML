@@ -1,4 +1,4 @@
-<script>alert('Abra o Site https://viniciusnovais74.github.io/calculadora-projetoHTML/')</scritp>
+Abra o Site https://viniciusnovais74.github.io/calculadora-projetoHTML/
 # Calculadora JavaScript
 
 [![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
