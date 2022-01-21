@@ -1,4 +1,4 @@
-(Site)[https://viniciusnovais74.github.io/Calculdora-HTML/]
+[Github Pages](https://viniciusnovais74.github.io/Calculdora-HTML/)
 # Calculadora JavaScript
 
 [![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
